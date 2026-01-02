@@ -73,31 +73,31 @@ This repository is ideal for:
 
 ### 🧭 Visual Roadmap (Progression View)
 
-`BEGINNER`
-`│`
-`├── Python Fundamentals`
-`│   ├── Variables & Data Types`
-`│   ├── Conditional Statements`
-`│   └── Loops`
-`│`
-`├── Functions & Variables`
-`│`
-`INTERMEDIATE`
-`│`
-`├── Object-Oriented Programming (OOP)`
-`│`
-`├── Exception Handling`
-`│`
-`├── File Handling (TXT, CSV)`
-`│`
-`├── Regular Expressions (Regex)`
-`│`
-`ADVANCED (FOUNDATION LEVEL)`
-`│`
-`├── Python Libraries`
-`│`
-`├── Unit Testing`
-`│`
+```BEGINNER```
+```│```
+```├── Python Fundamentals```
+```│   ├── Variables & Data Types```
+```│   ├── Conditional Statements```
+```│   └── Loops```
+```│```
+```├── Functions & Variables```
+```│```
+```INTERMEDIATE```
+```│```
+```├── Object-Oriented Programming (OOP)```
+```│```
+```├── Exception Handling```
+```│```
+```├── File Handling (TXT, CSV)```
+```│```
+```├── Regular Expressions (Regex)```
+```│```
+```ADVANCED (FOUNDATION LEVEL)```
+```│```
+```├── Python Libraries```
+```│```
+```├── Unit Testing```
+```│```
 
 ---
 
@@ -477,11 +477,11 @@ pip install -r requirements.txt
 
 ### 4️⃣ Run Python Files
 
-Navigate to any topic folder:
+#### Navigate to any topic folder:
 
 cd loops
 
-Run a Python file:
+#### Run a Python file:
 
 python filename.py
 

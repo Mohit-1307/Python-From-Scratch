@@ -333,6 +333,8 @@ pip install --upgrade pip
 
 pip install -r requirements.txt
 
+* If requirements.txt is not present, install manually
+
 ### 4️⃣ Run Python Files
 
 #### Navigate to any topic folder:
@@ -345,7 +347,7 @@ python filename.py
 
 #### Example:
 
-python for_loop_example.py
+python calculator.py
 
 📝 Notes
 

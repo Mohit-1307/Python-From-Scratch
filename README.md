@@ -73,31 +73,31 @@ This repository is ideal for:
 
 ### 🧭 Visual Roadmap (Progression View)
 
-BEGINNER
-│
-├── Python Fundamentals
-│   ├── Variables & Data Types
-│   ├── Conditional Statements
-│   └── Loops
-│
-├── Functions & Variables
-│
-INTERMEDIATE
-│
-├── Object-Oriented Programming (OOP)
-│
-├── Exception Handling
-│
-├── File Handling (TXT, CSV)
-│
-├── Regular Expressions (Regex)
-│
-ADVANCED (FOUNDATION LEVEL)
-│
-├── Python Libraries
-│
-├── Unit Testing
-│
+`BEGINNER`
+`│`
+`├── Python Fundamentals`
+`│   ├── Variables & Data Types`
+`│   ├── Conditional Statements`
+`│   └── Loops`
+`│`
+`├── Functions & Variables`
+`│`
+`INTERMEDIATE`
+`│`
+`├── Object-Oriented Programming (OOP)`
+`│`
+`├── Exception Handling`
+`│`
+`├── File Handling (TXT, CSV)`
+`│`
+`├── Regular Expressions (Regex)`
+`│`
+`ADVANCED (FOUNDATION LEVEL)`
+`│`
+`├── Python Libraries`
+`│`
+`├── Unit Testing`
+`│`
 
 ---
 
@@ -209,7 +209,7 @@ Follow this path top-to-bottom for the best learning experience.
 
 📂 Learn from:
 
-*regular expressions/
+* regular expressions/
 
 ### 7️⃣ Python Libraries
 
@@ -323,7 +323,7 @@ Concepts Covered:
 
 * Methods
 
-Basic OOP design principles
+* Basic OOP design principles
 
 📂 Folder:
 
@@ -439,13 +439,13 @@ Ignore rules for Python, Jupyter, virtual environments, and system files.
 
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26"/> Python
 
-<img src="https://cdn-icons-png.flaticon.com/512/2991/2991112.png" height="26"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2991/2991112.png" height="26"/> File Handling 
 
-<img src="https://cdn-icons-png.flaticon.com/512/2920/2920244.png" height="26"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2920/2920244.png" height="26"/> Unit Testing
 
-<img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" height="26"/>
+<img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" height="26"/> Object Oriented Programming 
 
-<img src="https://cdn-icons-png.flaticon.com/512/751/751463.png" height="26"/>
+<img src="https://cdn-icons-png.flaticon.com/512/751/751463.png" height="26"/> Regular Expressions
 
 ---
 
@@ -459,13 +459,13 @@ cd Python-From_Scratch
 
 ### 2️⃣ (Optional but Recommended) Create a Virtual Environment
 
-Windows:
+#### Windows:
 
 python -m venv venv
 
 venv\Scripts\activate
 
-macOS / Linux:
+#### macOS / Linux:
 
 python3 -m venv venv
 
@@ -485,7 +485,7 @@ Run a Python file:
 
 python filename.py
 
-Example:
+#### Example:
 
 python for_loop_example.py
 

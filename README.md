@@ -303,13 +303,13 @@ Ignore rules for Python, Jupyter, virtual environments, and system files.
 
 ## ▶️ How to Run Locally
 
-* Follow these steps to set up and run the Python From Scratch repository on your local machine
+* Follow these steps to set up and run the Python Programming Blueprint repository on your local machine
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/Mohit-1307/Python-From_Scratch.git
+git clone https://github.com/Mohit-1307/Python-Programming-Blueprint.git
 
-cd Python-From_Scratch
+cd Python-Programming-Blueprint
 
 ### 2️⃣ (Optional but Recommended) Create a Virtual Environment
 

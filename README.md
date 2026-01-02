@@ -439,13 +439,13 @@ Ignore rules for Python, Jupyter, virtual environments, and system files.
 
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26"/> Python
 
-<img src="https://cdn-icons-png.flaticon.com/512/2991/2991112.png" height="26"/> File Handling 
+* <img src="https://cdn-icons-png.flaticon.com/512/2991/2991112.png" height="26"/> File Handling 
 
-<img src="https://cdn-icons-png.flaticon.com/512/2920/2920244.png" height="26"/> Unit Testing
+* <img src="https://cdn-icons-png.flaticon.com/512/2920/2920244.png" height="26"/> Unit Testing
 
-<img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" height="26"/> Object Oriented Programming 
+* <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" height="26"/> Object Oriented Programming 
 
-<img src="https://cdn-icons-png.flaticon.com/512/751/751463.png" height="26"/> Regular Expressions
+* <img src="https://cdn-icons-png.flaticon.com/512/751/751463.png" height="26"/> Regular Expressions
 
 ---
 

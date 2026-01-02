@@ -261,7 +261,7 @@ Follow this path top-to-bottom for the best learning experience.
 
 Build reusable and modular code.
 
-Concepts Covered:
+#### Concepts Covered:
 
 * Variables & Input Method / Print Method
 
@@ -281,7 +281,7 @@ Concepts Covered:
 
 Learn how Python makes decisions and repeats tasks.
 
-Concepts Covered:
+#### Concepts Covered:
 
 * if, elif, else statements
 
@@ -297,7 +297,7 @@ Concepts Covered:
 
 Automate repetitive tasks efficiently.
 
-Concepts Covered:
+#### Concepts Covered:
 
 * for loop
 
@@ -313,7 +313,7 @@ Concepts Covered:
 
 * Write scalable and maintainable Python programs.
 
-* Concepts Covered:
+#### Concepts Covered:
 
 * Classes & objects
 
@@ -333,7 +333,7 @@ Concepts Covered:
 
 Make your programs robust and error-resistant.
 
-Concepts Covered:
+#### Concepts Covered:
 
 * try-except blocks
 
@@ -351,7 +351,7 @@ Concepts Covered:
 
 Work with external data using files.
 
-Concepts Covered:
+#### Concepts Covered:
 
 * Reading from files
 
@@ -375,7 +375,7 @@ Concepts Covered:
 
 Perform powerful text searching and pattern matching.
 
-Concepts Covered:
+#### Concepts Covered:
 
 * Regex syntax
 
@@ -391,7 +391,7 @@ Concepts Covered:
 
 Learn how to use Python’s ecosystem effectively.
 
-Concepts Covered:
+#### Concepts Covered:
 
 * Importing libraries
 
@@ -407,7 +407,7 @@ Concepts Covered:
 
 Ensure your code works as expected.
 
-Concepts Covered:
+#### Concepts Covered:
 
 * Writing unit tests
 

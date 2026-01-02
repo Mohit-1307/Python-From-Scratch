@@ -451,6 +451,8 @@ Ignore rules for Python, Jupyter, virtual environments, and system files.
 
 ## ▶️ How to Run Locally
 
+Follow these steps to set up and run the Python From Scratch repository on your local machine
+
 ### 1️⃣ Clone the Repository
 
 git clone https://github.com/Mohit-1307/Python-From_Scratch.git
@@ -459,19 +461,21 @@ cd Python-From_Scratch
 
 ### 2️⃣ (Optional but Recommended) Create a Virtual Environment
 
-#### Windows:
+#### 🪟 Windows:
 
 python -m venv venv
 
 venv\Scripts\activate
 
-#### macOS / Linux:
+#### <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/MacOS_logo.svg" height="28"/> macOS / 🐧 Linux:
 
 python3 -m venv venv
 
 source venv/bin/activate
 
 ### 3️⃣ Install Dependencies
+
+pip install --upgrade pip
 
 pip install -r requirements.txt
 
@@ -491,13 +495,13 @@ python for_loop_example.py
 
 📝 Notes
 
-Ensure Python 3.8+ is installed
+✅ Ensure Python 3.8+ is installed
 
 python --version
 
-* venv/ is optional and mainly for isolation
+* 📦 venv/ is optional but recommended for clean dependency management
 
-* This repository is meant for learning & practice
+* 🎯 This repository is designed for learning, experimentation, and interview preparation
 
 ---
 
